@@ -55,14 +55,17 @@
 </p>
 
 
----
-
 <!-- ===================================== -->
 <!--           SOFT DIVIDER                -->
 <!-- ===================================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
 
----
+## ✦ Workflow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/coding.gif" width="420" />
+</p>
+
 
 ## ✦ Activity Visualization
 
