@@ -1,59 +1,85 @@
-<!-- ================== TITLE ================== -->
+<!-- ================== PROFILE ================== -->
 # {{Your Name}}
 
-**Software Engineer · AI · Linux Systems**
+**Software Engineer · Backend · AI Systems · Linux**  
+*Powered by caffeine, logs, and unreasonable expectations.*
+
+<p align="center">
+  <img src="https://thuvienmeme.com/wp-content/uploads/2021/12/meo-u-dien-cuong-go-ban-phim-laptop.gif" width="300" alt="Cat aggressively typing on laptop">
+</p>
 
 ---
 
 ## Overview
 
-Short, high-signal summary about who you are and what you focus on.
+I build software systems that are expected to **work**,  
+continue to **work under load**,  
+and **fail in predictable ways** when things inevitably go wrong.
 
-I build reliable software systems with an emphasis on performance, clarity,
-and long-term maintainability. My work spans backend engineering, AI system
-integration, and Linux-based environments.
+My day-to-day involves backend engineering, AI/LLM system integration,
+and Linux-based environments — plus a healthy amount of staring at metrics
+wondering *“why is latency like this?”*
 
 ---
 
-## Focus Areas
+## What I Actually Do
 
-- Backend & distributed systems
-- AI / LLM integration and evaluation
-- Linux-first development workflows
-- Performance tuning & observability
-- Clean architecture and automation
+- Design backend & distributed systems that survive real traffic
+- Integrate AI / LLMs and **measure** whether they are worth the cost
+- Live in Linux terminals more than any GUI
+- Tune performance, add observability, remove unnecessary complexity
+- Automate everything that looks like it might annoy me twice
 
 ---
 
 ## Technical Profile
 
-Primary Role     : Software Engineer
-Core Domains     : Backend, AI Systems, Linux
-Preferred Stack  : Strongly typed, performance-oriented
-Operating System : Linux
-Engineering Bias : Measure → Optimize → Simplify
+| Field | Value |
+|------|------|
+| **Role** | Software Engineer |
+| **Domains** | Backend Systems · AI Systems · Linux |
+| **Stack Preference** | Strongly-typed, performance-oriented |
+| **OS of Choice** | Linux (obviously) |
+| **Engineering Loop** | Measure → Optimize → Simplify → Repeat |
 
-Current Work
+---
 
-Brief description of what you are currently spending most of your energy on.
-    Designing scalable backend components
-    Evaluating AI model outputs and system latency
-    Improving system reliability and cost efficiency
+## Current Focus
 
-Engineering Principles
-    Clarity over cleverness
-    Systems before features
-    Measure before optimizing
-    Automation over repetition
-    Documentation is part of the product
+Currently spending most of my energy on:
 
-GitHub Activity
+- Building scalable backend components that behave in production
+- Evaluating AI model outputs, latency, and cost (numbers > vibes)
+- Improving reliability, observability, and operational sanity
 
-This section is intentionally minimal to keep focus on structure.
+---
 
-(Stats, graphs, or visuals can be added later.)
-Contact
+## Engineering Beliefs (Hard-Earned)
 
-GitHub   : https://github.com/{{username}}
-Email    : {{email}}
-LinkedIn : {{linkedin}}
+- Clarity beats cleverness
+- Systems matter more than features
+- If you didn’t measure it, you didn’t optimize it
+- Automation is cheaper than human patience
+- Documentation is not optional — it’s part of the product
+
+---
+
+## GitHub Activity
+
+This profile is intentionally kept minimal.  
+If something here exists, it probably solves a real problem  
+(or existed because I was annoyed enough to write code).
+
+---
+
+## Contact
+
+- **GitHub**   : https://github.com/{{username}}
+- **Email**    : {{email}}
+- **LinkedIn** : {{linkedin}}
+
+---
+
+<p align="center">
+  <sub>Yes, the cat types faster than CI.</sub>
+</p>
