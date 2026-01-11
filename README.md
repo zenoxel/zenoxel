@@ -37,7 +37,14 @@
 ## ✦ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,github,neovim,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons
+    ?i=linux,arch,bash,git,github,neovim,docker
+    &theme=dark
+    &perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.gif" width="0" height="0" />
 </p>
 
 ---
