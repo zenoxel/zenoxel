@@ -44,8 +44,9 @@
 ## ✦ Workflow
 
 <p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?font=JetBrains+Mono&theme=dark&hide_border=true&width=700" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=6FA4FC&center=true&vCenter=true&width=700&lines=Edit+→+Build+→+Test+→+Refactor;CLI+first.;Automate+everything." />
 </p>
+
 
 ---
 
