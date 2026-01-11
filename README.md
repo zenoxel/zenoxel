@@ -1,93 +1,80 @@
-# Hi, I'm zenoxel 👋
-
-> Building thoughtful software, one commit at a time.
-
-[![Website](https://img.shields.io/badge/website-your-site-blue)](https://your-website.com) [![Mail](https://img.shields.io/badge/contact-email-orange)](mailto:you@example.com) [![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)](https://linkedin.com/in/yourprofile) ![GitHub followers](https://img.shields.io/github/followers/zenoxel?label=Follow&style=social)
+<!-- ====== HEADER TYPING EFFECT ====== -->
+<p align="center">
+  <a href="https://github.com/{{username}}">
+    <img src="https://readme-typing-svg.demolab.com?
+      font=Fira+Code
+      &size=28
+      &pause=1000
+      &color=38BDF8
+      &center=true
+      &vCenter=true
+      &width=600
+      &lines=Hi%2C+I'm+{{Your+Name}}+%F0%9F%91%8B;
+      Software+Engineer+%7C+AI+%7C+Linux;
+      Build.+Break.+Optimize.+Repeat.
+    " alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-About
------
-I'm a software engineer who loves solving real problems with clean, pragmatic code. I enjoy building open-source tools, shipping production-ready systems, and learning new technologies that help teams move faster.
+<!-- ====== ANIMATED BANNER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving
+    &color=0:0f2027,50:203a43,100:2c5364
+    &height=200
+    &section=header
+    &text=Welcome%20to%20my%20GitHub
+    &fontSize=38
+    &fontColor=ffffff
+    &animation=fadeIn
+  "/>
+</p>
 
-- 🔭 I’m currently working on: a high-performance service for [Project Name](https://github.com/your/project)
-- 🌱 I’m learning: [New Tech / Language]
-- 👯 I’m open to collaborating on: developer tooling, infra automation, and UX-focused frontend work
-- 💬 Ask me about: system design, testing strategies, and developer experience
-- ⚡ Fun fact: I collect (or build) tiny automation scripts that save me hours each month
+---
 
-Areas of expertise
-------------------
-- Languages: JavaScript / TypeScript • Python • Go • Rust (or replace with your stack)
-- Backend: Microservices, REST & GraphQL APIs, gRPC, event-driven architectures
-- Frontend: React, Next.js, component-driven design
-- DevOps: CI/CD, Docker, Kubernetes, Terraform
-- Testing & Quality: unit/integration tests, TDD, observability
+## 🚀 About Me
 
-What I build
-------------
-Here are a few types of projects I enjoy building:
+name: {{Your Name}}
+role: Software Engineer / AI Engineer
+os: Linux (Arch / CachyOS)
+focus:
+  - Backend Systems
+  - AI / LLM Integration
+  - Performance Optimization
+  - Linux & DevOps
+mindset: "Clean code, measurable impact"
 
-- Developer tooling (CLI utilities, dev servers, linting/formatting helpers)
-- Scalable APIs and realtime systems
-- Web apps with great DX and accessibility
-- Open-source libraries that save dev time
+🧠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons? i=linux,arch,python,cpp,go,rust,java, nodejs,ts,react,nextjs, docker,kubernetes,git,github,neovim &perline=7 " /> </p>
+⚡ What I Do
 
-Featured projects
------------------
-> Replace the examples below with your real projects and short 1–2 line descriptions.
+    🔧 Design high-performance backend systems
 
-- [project-a](https://github.com/your/project-a) — Tiny CLI for automating repetitive tasks. ⭐️ 200
-- [project-b](https://github.com/your/project-b) — Lightweight web framework for rapid prototyping.
-- [project-c](https://github.com/your/project-c) — Shared design system used across multiple products.
+    🤖 Build & evaluate AI / LLM pipelines
 
-Open-source contributions
--------------------------
-I contribute to libraries and tooling that improve developer productivity. If you want to collaborate on any of my repos or suggest improvements, open an issue or create a PR — I review and respond quickly.
+    🐧 Daily-drive Linux (tuning kernel, WM, CLI)
 
-How to work with me
--------------------
-- Pull requests: Clear description, small focused commits, and tests where applicable — I’ll review within a few days.
-- Mentorship: I enjoy pairing on architecture and code reviews. I prefer concrete problems and short sessions.
-- Hiring: I’m open to hearing about senior engineering roles and contract opportunities (add "Available / Not available" here)
+    🧪 Benchmark, profile, optimize
 
-Getting in touch
-----------------
-- Email: [you@example.com](mailto:you@example.com)
-- Website: [your-website.com](https://your-website.com)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+    📊 Care about latency, throughput, cost
 
-If you prefer, open an issue on one of my repos or send a DM on Twitter/LinkedIn.
+📈 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api? username={{username}} &show_icons=true &theme=tokyonight &hide_border=true "/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com? user={{username}} &theme=tokyonight &hide_border=true "/> </p>
+🔥 Contribution Graph (Animated)
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph? username={{username}} &theme=tokyo-night &hide_border=true "/> </p>
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/? username={{username}} &theme=tokyonight &no-frame=true &column=6 "/> </p>
+🧩 Current Focus
 
-Resume & speaking
------------------
-- Resume: [Download PDF](https://your-website.com/resume.pdf)
-- Talks: I speak about building durable tooling and testing strategies — reach out to invite me.
+    🚀 Scaling AI inference systems
 
-Pinned technologies / tools
----------------------------
-JavaScript • TypeScript • Node.js • React • Next.js • Go • Docker • Kubernetes • Terraform • GitHub Actions
+    🧠 Model evaluation & prompt engineering
 
-Showcase — GitHub stats
------------------------
-<!-- These are examples of badges/cards you can add; enable them by replacing the URLs with your GitHub username where necessary. -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenoxel&layout=compact&theme=default)
-![Stats](https://github-readme-stats.vercel.app/api?username=zenoxel&show_icons=true&theme=default)
+    🐧 Advanced Linux performance tuning
 
-Contributing to my repos
-------------------------
-1. Fork the repo you want to contribute to.
-2. Create a branch: git checkout -b feat/your-feature
-3. Add tests and update docs.
-4. Create a pull request and reference any related issues.
+    ⚙️ Low-latency system design
 
-License
--------
-Most of my public repos are licensed under the MIT License — check each repo for details.
-
-Support / Sponsor
------------------
-If my work helps you, consider sponsoring me so I can dedicate more time to open-source projects: [Sponsor me](https://github.com/sponsors/zenoxel)
-
-Thanks for visiting — let’s build something great together! 🚀
+📫 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/{{linkedin}}"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://twitter.com/{{twitter}}"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/> </a> <a href="mailto:{{email}}"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/> </a> </p> <!-- ====== FOOTER WAVE ====== --> <p align="center"> <img src="https://capsule-render.vercel.app/api? type=waving &color=0:2c5364,50:203a43,100:0f2027 &height=120 &section=footer "/> </p>
