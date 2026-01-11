@@ -44,7 +44,7 @@
 ## ✦ Workflow
 
 <p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?font=JetBrains+Mono&theme=dark&hide_border=true&width=760" />
+  <img src="https://metrics.lecoq.io/zenoxel?template=terminal&base.header=false&base.activity=false&base.community=false&base.repositories=false&config.timezone=Asia%2FHo_Chi_Minh" />
 </p>
 
 ---
