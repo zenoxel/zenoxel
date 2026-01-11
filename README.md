@@ -39,14 +39,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6FA4FC,50:8FD3F4,100:6FA4FC" />
 </p>
 
----
-
-<!-- ===================================== -->
-<!--           SOFT DIVIDER                -->
-<!-- ===================================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
-
----
 
 ## ✦ Workflow
 
