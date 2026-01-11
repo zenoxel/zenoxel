@@ -44,8 +44,9 @@
 ## ✦ Workflow
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/zenoxel?template=terminal&base.header=false&base.activity=false&base.community=false&base.repositories=false&config.timezone=Asia%2FHo_Chi_Minh" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=6FA4FC&center=true&vCenter=true&width=760&lines=Design+→+Implement+→+Review+→+Refactor;CLI+First.;Automate+Everything." />
 </p>
+
 
 ---
 
