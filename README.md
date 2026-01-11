@@ -37,15 +37,23 @@
 ## ✦ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons
-    ?i=linux,arch,bash,git,github,neovim,docker
-    &theme=dark
-    &perline=7" />
+  <img src="https://capsule-render.vercel.app/api
+    ?type=rect
+    &height=3
+    &color=0:6FA4FC,50:8FD3F4,100:6FA4FC" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.gif" width="0" height="0" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,git,neovim,docker&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api
+    ?type=rect
+    &height=3
+    &color=0:6FA4FC,50:8FD3F4,100:6FA4FC" />
+</p>
+
 
 ---
 
