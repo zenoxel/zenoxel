@@ -44,9 +44,8 @@
 ## ✦ Workflow
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=6FA4FC&center=true&vCenter=true&width=760&lines=Design+→+Implement+→+Review+→+Refactor;CLI+First.;Automate+Everything." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=6FA4FC&center=true&vCenter=true&width=760&lines=Design+->+Implement+->+Review+->+Refactor;CLI+First.;Automate+Everything." />
 </p>
-
 
 ---
 
