@@ -44,7 +44,7 @@
 ## ✦ Workflow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/coding.gif" width="420" />
+  <img src="https://github-readme-terminal.vercel.app/api?font=JetBrains+Mono&theme=dark&hide_border=true&width=700" />
 </p>
 
 ---
