@@ -9,16 +9,7 @@
 <!--           TYPING EFFECT               -->
 <!-- ===================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=JetBrains+Mono
-    &size=22
-    &duration=3500
-    &pause=700
-    &color=6FA4FC
-    &center=true
-    &vCenter=true
-    &width=750
-    &lines=Software+Engineer.;Linux+First.;Minimal+by+Design.;Readable+Code+Matters." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=700&color=6FA4FC&center=true&vCenter=true&width=750&lines=Software+Engineer.;Linux+First.;Minimal+by+Design.;Readable+Code+Matters." />
 </p>
 
 ---
@@ -37,10 +28,7 @@
 ## ✦ Toolbox
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=rect
-    &height=3
-    &color=0:6FA4FC,50:8FD3F4,100:6FA4FC" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6FA4FC,50:8FD3F4,100:6FA4FC" />
 </p>
 
 <p align="center">
@@ -48,17 +36,17 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=rect
-    &height=3
-    &color=0:6FA4FC,50:8FD3F4,100:6FA4FC" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6FA4FC,50:8FD3F4,100:6FA4FC" />
 </p>
 
+---
 
 <!-- ===================================== -->
 <!--           SOFT DIVIDER                -->
 <!-- ===================================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+
+---
 
 ## ✦ Workflow
 
@@ -66,6 +54,7 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/coding.gif" width="420" />
 </p>
 
+---
 
 ## ✦ Activity Visualization
 
@@ -82,13 +71,7 @@
 ### ▸ Development Rhythm
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph
-    ?username=octocat
-    &bg_color=00000000
-    &color=6FA4FC
-    &line=6FA4FC
-    &point=FFFFFF
-    &hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&bg_color=00000000&color=6FA4FC&line=6FA4FC&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -116,9 +99,5 @@
 <!--              FOOTER                  -->
 <!-- ===================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=waving
-    &height=140
-    &color=0:2c5364,50:203a43,100:0f2027
-    &section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2c5364,50:203a43,100:0f2027&section=footer" />
 </p>
